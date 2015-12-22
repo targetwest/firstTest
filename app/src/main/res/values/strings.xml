@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">食谱计算器</string>
+
+    <string name="page_title_login">商户登录</string>
+    <string name="register_title">商户首次登录</string>
+
+    <string name="page_test_main">调试按钮：测试主界面</string>
+    <string name="page_test_cancelRegister">调试按钮：取消注册</string>
+
+    <string name="spaces">&#032;&#032;</string>
+    <string name="shop_history">交易历史</string>
+
+    <!-- Strings related to login -->
+
+    <string name="label_account">收银员账号</string>
+    <string name="label_authCode">授权码:</string>
+    <string name="label_password">设置密码:</string>
+    <string name="label_input_password">密码:</string>
+
+
+    <string name="prompt_email">请输入账号用户名</string>
+    <string name="prompt_authCode">请填写授权码</string>
+    <string name="prompt_password">请填写密码</string>
+
+    <string name="action_register_in">注册</string>
+    <string name="action_sign_in">登录</string>
+
+    <string name="welcome_sign_in">欢迎登录</string>
+
+
+    <string name="action_sign_in_short">注册</string>
+    <string name="error_invalid_email">账户名称不合法或已经重复</string>
+    <string name="error_tooShort_email">账户名称过短</string>
+    <string name="error_invalid_password">密码过短</string>
+    <string name="error_null_old_password">原密码不能为空</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">请输入账户名称</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email    completions."   </string>
+
+    <!-- main framework-->
+    <string name="receivemoney">收款</string>
+    <string name="querydeals">交易查询</string>
+    <string name="changepassword">改密</string>
+    <string name="pingus">联系我们</string>
+
+    <!--center menu-->
+    <string name="center_scan_code">扫码</string>
+    <string name="center_check_history">查看历史记录</string>
+    <string name="center_change_password">修改密码</string>
+    <string name="center_soft_setting">软件设置</string>
+    <string name="center_soft_update">更新</string>
+    <string name="center_about_us">关于我们</string>
+
+    <string name="settings">设置</string>
+    <string name="change_pwd">修改密码</string>
+
+
+    <!---扫码-->
+    <string name="title_scan">收款</string>
+    <string name="scan_input_money">收款金额</string>
+    <string name="scan_action_submit">扫码</string>
+    <string name="error_field_be_number">请输入正确的金额</string>
+    <string name="error_field_be_positive">金额必须大于零</string>
+
+
+
+    <!---修改密码-->
+    <string name="page_title_changepassword">修改密码</string>
+    <string name="label_old_password">旧密码:</string>
+    <string name="label_new_password">新密码:</string>
+    <string name="label_new_password_again">重复新密码:</string>
+    <string name="action_old_password">输入原密码</string>
+    <string name="action_new_password">请填写新密码</string>
+    <string name="action_new_password_again">确认新密码</string>
+    <string name="action_submit_change_password">保存修改</string>
+
+
+    <string name="error_invalid_old_password">请重新输入当前密码</string>
+    <string name="error_invalid_new_password">新密码格式不正确</string>
+    <string name="error_null_new_password">新密码不能为空</string>
+    <string name="error_invalid_double_password">两次输入的新密码不相同</string>
+
+    <!--交易历史-->
+    <string name="balance_recharge_amount">充值金额:</string>
+    <string name="balance_recharge_time">充值时间:</string>
+
+
+
+    <string name="page_title_exit">退出  </string>
+
+    <string name="exit_dialog_confirm">您确定要退出登录吗？</string>
+    <string name="exit_dialog_yes">确定</string>
+    <string name="exit_dialog__no">取消</string>
+
+    <!-- 联系我们-->
+    <string name="page_title_pingus">联系我们</string>
+    <string name="label_pingus_content">我们的联系方式是XXX,YYY,ZZZ</string>
+    <!--关于我们-->
+    <string name="aboutus_th_name">名称</string>
+    <string name="aboutus_td_name">小燕卡商户端</string>
+    <string name="aboutus_th_version">版本</string>
+    <string name="aboutus_td_version">V101.23</string>
+    <string name="aboutus_th_provider">运营商</string>
+    <string name="aboutus_td_provider">小燕卡公司</string>
+    <string name="aboutus_th_phone">联系方式</string>
+    <string name="aboutus_td_phone">0312-768123</string>
+    <string name="aboutus_th_fax">传真</string>
+    <string name="aboutus_td_fax">0312-8273699</string>
+    <string name="aboutus_th_address">地址</string>
+    <string name="aboutus_td_address">保定市新市区建设南路123号</string>
+
+
+
+
+
+    <!--Test data for the Deal History-->
+    <!--Nearby-->
+    <string name="test_shop_title">卡号</string>
+    <string name="test_shop_discount">消费金额</string>
+    <string name="test_shop_address">消费时间</string>
+    <string name="test_shop_category">状态</string>
+
+    <!--Messages-->
+    <string name="load">加载中...</string>
+    <string name="load_failed">加载失败,请稍候重试!</string>
+    <string name="no_more_to_load">全部加载完毕</string>
+    <string name="scan">扫描二维码</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+
+
+</resources>

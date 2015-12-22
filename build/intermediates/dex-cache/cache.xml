@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\project\firstTest\app\libs\zxing.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\zxing_f6bc27b50dc46f951a0df717549164cf3e70714c.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_eb7fb2d4baaea1b7e519ed48bc5da2f02902cbf3.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_98ee1f8d534a92b8787c6929747657cbed05be90.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_b30b3b87e5cba4b47b83945e98903a44cf80faf7.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\firstTest\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="df20a5716b03d8dc783ebaa7e2e98e904c19dd5f">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\firstTest-library-unspecified_b1a105e9bf44552da9de70d9e752484299b581ca.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_0cd2ac13fdcf13fa650d942ec37e17e91bc2ac5e.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_64d344933f918878fa7d7269839d2ab8ac6ed985.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_f3255bd0ae7399b9a952c00050cba892c27b191a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dai\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.2\b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd\httpcore-4.4.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\httpcore-4.4.2_3ee443cdee2964c3123b4bbd50f77e5478ddc350.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5_d19f530d035d79425078766b17721eaa82a7d7f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_e9409a555ab52ffbd42e70da11ea6c50f820e49b.jar" />
+    </item>
+    <item
+        jar="D:\project\firstTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\project\firstTest\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_6ee92e84e2a0a346e4051ba761199ca3d3c222a6.jar" />
+    </item>
+
+</items>
